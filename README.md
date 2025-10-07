@@ -1,5 +1,11 @@
 # MinSalud Web Scraper
 
+[![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Tests](https://img.shields.io/badge/tests-8%2F8%20passing-brightgreen.svg)](test_ethical.py)
+[![Ethics](https://img.shields.io/badge/ethics-compliant-green.svg)](POLITICAS_ETICA_LEGAL.md)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/cloud/atlas)
+
 Un sistema completo de web scraping **ético y legal** para extraer documentos de normatividad del sitio web del Ministerio de Salud de Colombia.
 
 ## 🚀 Características
@@ -182,5 +188,26 @@ choco install tesseract
 
 Este proyecto es de código abierto bajo licencia MIT.
 
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
+### Aviso de Uso Ético
+
+Este software está diseñado **exclusivamente para fines educativos e de investigación**. Los usuarios deben cumplir con todas las leyes aplicables, incluyendo:
+
+- Ley 1273 de 2009 (Delitos Informáticos)
+- Ley 1581 de 2012 (Protección de Datos Personales)
+- Ley 1712 de 2014 (Transparencia y Acceso a Información Pública)
+
+**NO usar este software para**:
+- Acceso no autorizado a sistemas
+- Recopilación de datos personales sin autorización
+- Sobrecarga o ataques a servidores
+- Cualquier propósito ilegal o no ético
+
+Los autores no se responsabilizan por el uso indebido. Al usar este software, aceptas usarlo solo para propósitos educativos legítimos en cumplimiento con todas las leyes aplicables.
+
 ---
+
 **Desarrollado para el Taller de Big Data y Web Scraping** 🚀
